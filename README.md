@@ -4,3 +4,6 @@ A demo for my blog post at: http://blog.grossman.io/
 
 
 Based on the https://github.com/angularclass/NG6-starter.git starter boilerplate.
+
+To start project:
+gulp serve
